@@ -1,4 +1,3 @@
-import time
 from appium import webdriver
 
 def screen_shot(drv, money):
